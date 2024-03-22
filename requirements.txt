@@ -1,0 +1,5 @@
+beautifulsoup4==4.13.0b2
+bs4==0.0.2
+lxml==5.1.0
+soupsieve==2.4.1
+typing_extensions==4.7.1
